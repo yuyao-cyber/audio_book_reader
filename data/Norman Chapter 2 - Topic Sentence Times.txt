@@ -1,0 +1,94 @@
+Annotation Summary of Norman (1988) Design-of Chapter 2 - highlighting.pdf.				
+Tab-delimited
+min:sec:ms	milliseconds	PDF Page	Book Page	Text
+00:02.456	2456	1	34	Chapter Two
+00:04.195	4195	1	34	PSYCHOLOGY OF EVERYDAY ACTIONS
+00:07.462	7462	1	34	During my family's stay in England, we rented a furnished house while the owners were away.
+00:44.866	44866	1	34	Falsely Blaming Yourself
+00:47.523	47523	1	34	I have studied people making errors—sometimes serious ones—with mechanical devices, light switches and fuses, computer operating sys- tems and word processors, even airplanes and nuclear power plants.
+01:31.718	91718	2	35	I once was asked by a large computer company to evaluate a brand new product.
+01:53.474	113474	2	35	I pointed this problem out to the designer, explaining that I myself had made the error frequently and that my analyses indicated that this was very likely to be a frequent error among users.
+02:13.550	133550	2	35	Yes, yes, I explained, "I understand the two keys, I simply confuse them.
+02:32.472	152472	2	35	Nope, said the designer.
+02:53.283	173283	2	35	Oh, yes, said the secretaries, "we do that a lot."
+02:57.777	177777	2	35	Well, how come nobody ever said anything about it? we asked the secretaries.
+03:06.568	186568	2	35	The reason was simple: when the system stopped working or did something strange, the secretaries dutifully reported it as a problem.
+03:23.457	203457	2	35	Of course, people do make errors.
+03:41.356	221356	3	36	If an error is possible, someone will make it.
+04:03.793	243793	3	36	Misconceptions of Everyday Life
+04:06.740	246740	3	36	Our lives are filled with misconceptions.
+05:00.894	300894	3	36	ARISTOTLE'S NAIVE PHYSICS
+05:03.642	303642	3	36	For example, Aristotle thought that moving objects kept moving only if something kept pushing them.
+05:58.300	358300	4	37	1. I take a pistol and, carefully aiming it on a level, horizontal line, I fire a bullet.
+06:21.871	381871	4	37	2. Imagine someone running across a field carrying a ball.
+06:36.290	396290	4	37	The physicist says the answer to the bullet problem is trivial: both bullets hit the ground at the same time.
+07:15.831	435831	5	38	In the case of the falling ball, our prediction is that the ball will drop straight down.
+07:35.994	455994	5	38	Naive physics—and naive views of psychology and other fields—are often sensible, even if wrong.
+07:52.779	472779	5	38	PEOPLE AS EXPLANATORY CREATURES
+07:55.688	475688	5	38	Mental models, our conceptual models of the way objects work, events take place, or people behave, result from our tendency to form explana- tions of things.
+08:22.710	502710	5	38	Mental models are often constructed from fragmentary evidence, with but a poor understanding of what is happening, and with a kind of naive psychology that postulates causes, mechanisms, and relation- ships even where there are none.
+08:59.655	539655	5	38	Consider the room thermostat.
+09:39.134	579134	5	38	If you are in a cold room, in a hurry to get warm, will the room heat more quickly if you turn the thermostat all the way up?
+10:02.973	602973	6	39	If you think that the room or oven will heat (or cool) faster if the thermostat is turned all the way to the maximum setting, you are wrong.
+10:53.236	653236	6	39	The correct story is that the thermostat is just an on-off switch.
+11:25.218	685218	6	39	The real point of the example is not that some people have erroneous theories; it is that everyone forms theories (mental models) to explain what they have observed.
+11:53.243	713243	6	39	Blaming the Wrong Cause
+11:55.658	715658	6	39	Look at this! my colleague exclaimed to me, "My computer termi- nal is broken.
+12:11.917	731917	6	39	That doesn't make sense, 1 replied.
+12:20.421	740421	7	40	All I know, he said, "is that everything was working fine until I tried to look up an author in the library catalog using that new library program, and then my terminal stopped working.
+12:36.638	756638	7	40	Well, it was a coincidence.
+12:49.925	769925	7	40	Earlier I suggested that people have a tendency to blame themselves for difficulties with technology.
+13:32.054	812054	7	40	Just where do we put the blame for failure?
+14:08.897	848897	7	40	One major aspect of the assignment of blame is that we frequently have little information on which to make the judgment, and what little we have may be wrong.
+15:04.631	904631	8	41	Interestingly enough, the common tendency to blame ourselves for failures with everyday objects goes against the normal attributions people make.
+15:20.491	920491	8	41	Here is a made-up example.
+15:38.846	938846	8	41	Now consider Tom's point of view.
+16:24.466	984466	8	41	But Tom's colleagues see a different picture.
+17:04.702	1024702	8	41	It seems natural for people to blame their own misfortunes on the environment.
+17:45.016	1065016	9	42	In all cases, whether a person is inappropriately accepting blame for the inability to work simple objects or attributing behavior to environ- ment or personality, a faulty mental model is at work.
+17:58.738	1078738	9	42	LEARNED HELPLESSNESS
+18:01.128	1081128	9	42	The phenomenon called learned helplessness may help explain the self- blame.
+18:55.070	1135070	9	42	TAUGHT HELPLESSNESS
+18:57.260	1137260	9	42	Do the common technology and mathematics phobias result from a kind of learned helplessness?
+19:29.794	1169794	9	42	With badly designed objects—constructed so as to lead to misunder- standing—faulty mental models, and poor feedback, no wonder people feel guilty when they have trouble using objects, especially when they perceive (even if incorrectly) that nobody else is …
+20:42.672	1242672	10	43	The Nature of Human Thought and Explanation
+20:46.064	1246064	10	43	It isn't always easy to tell just where the blame for a problem should be placed.
+21:26.975	1286975	10	43	It is spectacularly easy to find examples of false assessment in indus- trial accidents.
+21:49.801	1309801	10	43	At the Three Mile Island nuclear power plant, operators pushed a button to close a valve; the valve had been opened (properly) to allow excess water to escape from the nuclear core.
+22:56.527	1376527	11	44	Similar misinterpretations take place all the time.
+24:04.186	1444186	11	44	What happened? The second and third engines were indeed out of oil, and they failed.
+24:41.624	1481624	11	44	Why did all three engines fail?
+25:34.578	1534578	12	45	I've misinterpreted signals, as I'm sure most people have.
+26:31.018	1591018	12	45	Find an explanation, and we are happy.
+27:18.278	1638278	12	45	How People Do Things: The Seven Stages of Action
+27:22.700	1642700	12	45	I am in Italy, at a conference.
+28:30.355	1710355	13	46	What makes something—like threading the projector—difficult to do?
+28:44.917	1724917	13	46	The basic idea is simple. To get something done, you have to start with some notion of what is wanted—the goal that is to be achieved.
+29:20.335	1760335	13	46	Real tasks are not quite so simple.
+29:57.788	1797788	13	46	Suppose I am sitting in my armchair, reading a book.
+30:55.755	1855755	15	48	The specific actions bridge the gap between what we would like to have done (our goals and intentions) and all possible physical actions.
+31:20.218	1880218	15	48	The evaluation side of things, checking up on what happened, has three stages: first, perceiving what happened in the world; second, trying to make sense of it (interpreting it); and, finally, comparing what happened with what was wanted (figure…
+31:37.172	1897172	15	48	There we have it. Seven stages of action: one for goals, three for execution, and three for evaluation.
+32:04.455	1924455	15	48	The seven stages form an approximate model, not a complete psycholog- ical theory.
+32:45.077	1965077	15	48	For many everyday tasks, goals and intentions are not well specified: they are opportunistic rather than planned.
+33:45.037	2025037	16	49	The seven-stage process of action can be started at any point.
+34:42.550	2082550	16	49	The Gulfs of Execution and Evaluation
+34:46.172	2086172	16	49	Remember the movie projector story?
+35:27.950	2127950	16	49	The projector story is only an extreme case of the difficulties faced in the conduct of many tasks.
+36:05.451	2165451	18	51	THE GULF OF EXECUTION
+36:08.113	2168113	18	51	Does the system provide actions that correspond to the intentions of the person?
+36:33.930	2193930	18	51	Consider the movie projector example: one problem resulted from the Gulf of Execution.
+36:55.703	2215703	18	51	Self-threading projectors do exist.
+37:33.412	2253412	18	51	THE GULF OF EVALUATION
+37:35.948	2255948	18	51	Does the system provide a physical representation that can be directly perceived and that is directly interpretable in terms of the intentions and expectations of the person?
+38:08.460	2288460	18	51	In the movie projector example there was also a problem with the Gulf of Evaluation.
+38:31.791	2311791	19	52	But VCRs aren't perfect, either.
+39:19.360	2359360	19	52	The gulfs are present to an amazing degree in a variety of devices.
+40:04.314	2404314	19	52	The Seven Stages of Action as Design Aids
+40:08.651	2408651	19	52	The seven-stage structure can be a valuable design aid, for it provides a basic checklist of questions to ask to ensure that the Gulfs of Evalua- tion and Execution are bridged (figure…
+40:21.697	2421697	19	52	In general, each stage of action requires its own special design strate- gies and, in turn, provides its own opportunity for disaster.
+40:50.694	2450694	19	52	• Visibility.
+40:58.332	2458332	20	53	• A good conceptual model.
+41:12.061	2472061	20	53	• Good mappings.
+41:25.350	2485350	20	53	• Feedback.
+41:32.670	2492670	20	53	Each point provides support for one or more of the seven stages of action.
